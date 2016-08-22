@@ -20,6 +20,6 @@ Clone/download this repo.
  - `css/cv.scss` styles.
 
 So only thing you need to do is to fill the `cv.yml`. 
-As I mentioned above you can easily integrate this CV in your blog (if it's hosted on github pages) by putting `cv.yml` in `_data` folder of your blog, `cv.scss` in `cv` folder of your blog and renaming `index.html` to `cv.html`.
+As I mentioned above you can easily integrate this CV in your blog (if it's hosted on github pages) by putting `cv.yml` in `_data` folder of your blog, `cv.scss` in `css` folder of your blog and renaming `index.html` to `cv.html`.
  
-PRs/issues/comments are welcome! Don't hesitate to contact me in case of any qustions.
+PRs/issues/comments are welcome! Don't hesitate to contact me in case of any questions.
