@@ -1,6 +1,7 @@
 url: http://streetturtle.github.io
 projectUrl: jekyl-cv-crafter
 
+# leave blank fields which you don't want to fill/be displayed
 person:
   name: Michelangelo
   profesion: Teenage Mutant Ninja Turtle
@@ -8,7 +9,7 @@ person:
   citizenship: USA
   email: mikey@tmnt.com
   site: http://mikeystmnt.com
-  phone: --
+  phone: +8-tmnt-mickey
   github: /streetturtle
   stackoverflow: /streetturtle
 
