@@ -9,7 +9,7 @@ Check the [demo](http://pavelmakhov.com/jekyll-cv-crafter/).
  - Font Awesome icons + Bootstrap.
  - Could be easily integrated in already existing site/blog hosted on Github using Jekyll [data](http://jekyllrb.com/docs/datafiles/) files.
  - Data is separated from the view - just fill the YAML file to create your CV.
- - You can easily modify the template or create a new theme accoding to your needs.
+ - You can easily modify the template or create a new theme according to your needs.
  
 ## Installation
 
