@@ -1,5 +1,7 @@
 # Jekyll CV Crafter
 
+[![Gem Version](https://badge.fury.io/rb/jekyll-cv-crafter.svg)](https://badge.fury.io/rb/jekyll-cv-crafter)
+
 Jekyll powered CV generator. 
 Check the [demo](http://pavelmakhov.com/jekyll-cv-crafter/).
 
