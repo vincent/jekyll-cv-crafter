@@ -4,6 +4,7 @@ projectUrl: jekyl-cv-crafter
 # leave blank fields which you don't want to fill/be displayed
 person:
   name: Michelangelo
+  depiction: headshot.png
   profession: Teenage Mutant Ninja Turtle
   location: sewers of New York City
   citizenship: USA
