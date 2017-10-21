@@ -12,18 +12,27 @@ body{
 
 .header{
   padding: 50px 50px 20px;
+}
+
+.bg-gray{
   background-color: #ddd;
 }
+
 .section{
   padding: 20px 50px;
+  .jd{
+    padding: 20px 0;
+  }
+}
+
+.section-border{
   border-top: 1px solid lightblue;
   .jd{
     border-bottom: 1px solid lightblue;
-    padding: 20px 0;
   }
   .jd:last-child{
       border-bottom: none;
-    }
+  }
 }
 
 .progress{
